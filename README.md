@@ -121,16 +121,6 @@ Rebuilt the model using only top features to reduce complexity:
 
 * Feature selection helped simplify the model with no performance loss
 
-## 🛠️ Tools Used
-* Python
-
-* Pandas & NumPy
-
-* Scikit-learn (Pipelines, GridSearchCV, Metrics)
-
-* Matplotlib
-
-* Seaborn
 
 ## 🚀 Next Steps
 * Export model for deployment
